@@ -17,7 +17,7 @@ Key Contributions:
 Abstract Class Implementation: Designed an abstract Employee class with specialized subclasses for FullTimeEmployee and PartTimeEmployee, enabling flexible and scalable payroll management.
 Salary Calculation Engine: Engineered a robust system for calculating salaries based on distinct employee types, ensuring accurate and efficient payroll processing.
 
-Employee Management System: Implemented a comprehensive PayrollSystem class to handle employee records, including adding, updating, and removing employees, thereby optimizing payroll operations.\
+Employee Management System: Implemented a comprehensive PayrollSystem class to handle employee records, including adding, updating, and removing employees, thereby optimizing payroll operations.
 
 Impact:
 Showcases OOP Expertise: Demonstrates a solid understanding of advanced OOP concepts and their application in real-world software development.
